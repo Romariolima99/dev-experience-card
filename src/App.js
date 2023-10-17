@@ -7,6 +7,7 @@ export default function Example() {
       <div className="ml-4">
        <h3 className="font-semibold text-xl">Romário Lima</h3>
        <h4 className="text-indigo-300 pt-1">Front-end Developer</h4>
+       <h4 className="text-indigo-300 pt-1">Formação: Analise e desenvolvimento de sistemas</h4>
        </div>
        </div>
        <div className="mt-6">
