@@ -1,3 +1,6 @@
+import { AiFillLinkedin } from "react-icons/ai";
+import { AiOutlineGithub } from "react-icons/ai";
+
 export default function Example() {
   return (
     <div className="container h-screen w-screen mx-auto flex items-center justify-center"> 
@@ -35,10 +38,10 @@ export default function Example() {
         </div>
         <div className="mt-06">
         <h3 className="text-indigo-500 font-medium text-xl mt-1">Onde me encontrar:
-        </h3>
-        <ul className="list-disc list-inside pl-4"> 
-         <li className=" list-item">Github https://github.com/Romariolima99</li>
-        <li className=" list-item">Linkedin https://www.linkedin.com/in/romariolima99/</li>
+         </h3>
+         <ul className="pl-4 "> 
+         <li className=" flex items-center space-x-2 fas fa-icon-name"><AiOutlineGithub className="pr-1 text-2xl text-white-400" />  https://github.com/Romariolima99 </li>
+         <li className=" flex items-center space-x-2 fas fa-icon-name"><AiFillLinkedin  className="pr-1 text-2xl text-white-400"/>  https://www.linkedin.com/in/romariolima99/</li>
         </ul>
        </div>
       </div>

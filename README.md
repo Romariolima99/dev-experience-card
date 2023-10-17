@@ -35,4 +35,4 @@ gi
 ```
 
 
-<img src="https://i.imgur.com/q9dgUHW.png" alt="GIF" data-canonical-src="https://i.imgur.com/q9dgUHW.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/NkEIDUO.png" alt="GIF" data-canonical-src="https://i.imgur.com/NkEIDUO.png" style="max-width: 50%;">
