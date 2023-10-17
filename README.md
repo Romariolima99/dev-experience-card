@@ -18,7 +18,7 @@ Siga estas etapas para executar o Cartão de Experiência de Desenvolvedor em su
 ```
 
 # Acesse o diretório do projeto:
-
+gi
 ```js
 - cd seu-repositorio
 ```
@@ -35,4 +35,4 @@ Siga estas etapas para executar o Cartão de Experiência de Desenvolvedor em su
 ```
 
 
-<img src="https://i.imgur.com/KYWVCkV.png" alt="GIF" data-canonical-src="https://i.imgur.com/KYWVCkV.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/q9dgUHW.png" alt="GIF" data-canonical-src="https://i.imgur.com/q9dgUHW.png" style="max-width: 50%;">
