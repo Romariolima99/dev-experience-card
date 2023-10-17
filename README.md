@@ -11,7 +11,7 @@ Este repositório contém o código-fonte do meu Cartão de Experiência de Anal
 
 - [Link de deploy: ](https://gregarious-bavarois-7a9681.netlify.app)
 
-## Como Executar
+## deploy
 
 Siga estas etapas para executar o Cartão de Experiência de Desenvolvedor em sua máquina local:
 
