@@ -7,11 +7,11 @@ Este repositório contém o código-fonte do meu Cartão de Experiência de Anal
 - [React](https://reactjs.org/): O framework JavaScript utilizado para criar a aplicação.
 - [Tailwind CSS](https://tailwindcss.com/): O framework de CSS utilizado para estilizar o cartão.
 
-## Tecnologias Utilizadas
+## Deploy
 
 - [Link de deploy: ](https://gregarious-bavarois-7a9681.netlify.app)
 
-## deploy
+## Como Executar
 
 Siga estas etapas para executar o Cartão de Experiência de Desenvolvedor em sua máquina local:
 
